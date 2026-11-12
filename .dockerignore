@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+*.md
+node_modules/
+*.log
+*.tmp
+.nyc_output
+.coverage
